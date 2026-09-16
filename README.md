@@ -1,6 +1,6 @@
 # Pemrograman Komputer
 
-Nama : Nama Mahasiswa
+Nama : Arkana Rizky Faviansyah
 NRP : 5018251010
 Kelas : Pemrograman Komputer
 
